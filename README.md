@@ -1,2 +1,3 @@
-# teka3003
-Ohjelmistotuotannon kurssin toinen palautusrepo
+# Ohjelmistotuotanto
+
+[Ohjelmistotuotanto](https://ohjelmistotuotanto-hy.github.io/)-kurssin laskareissa käytettävä Python-koodi.
