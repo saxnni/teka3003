@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+
+# Python
+__pycache__/
+.pytest_cache/
+
+/*.tmp
+htmlcov/
+uv.lock
+.coverage

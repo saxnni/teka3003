@@ -3,9 +3,7 @@ from player_reader import PlayerReader
 
 
 class StatisticsService:
-    def __init__(self):
-        reader = PlayerReader("https://studies.cs.helsinki.fi/nhlstats/2023-24/players.txt")
-
+    def __init__(self, reader):
         self._players = reader.get_players()
 
     def search(self, name):
